@@ -9,7 +9,7 @@
 ### Запрос
 - Метод: POST
 - URL: /api/check_access
-Тело:
+**Тело:**
 ```json
 {
   "token": "user_token_here",
